@@ -38,7 +38,7 @@
         <mxCell id="TNxAbdSMzxr9NFTVP6hA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TNxAbdSMzxr9NFTVP6hA-8" target="TNxAbdSMzxr9NFTVP6hA-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TNxAbdSMzxr9NFTVP6hA-8" value="&lt;font color=&quot;#78ff8a&quot;&gt;Impfung einer Teilmenge der Population&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="TNxAbdSMzxr9NFTVP6hA-8" value="&lt;font color=&quot;#ff8880&quot;&gt;Impfung einer Teilmenge der Population&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TNxAbdSMzxr9NFTVP6hA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TNxAbdSMzxr9NFTVP6hA-11" target="TNxAbdSMzxr9NFTVP6hA-13" edge="1">
