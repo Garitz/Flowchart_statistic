@@ -1,0 +1,1 @@
+Dieses Projekt wurde im Rahmen der Vorlesung Statistik und Machine learning im 5. Semester ausgearbeitet. Es handelt sich um eine Virussimulation, die anhand verschiedener Parameter eingestellt und graphisch dargestellt werden kann.
